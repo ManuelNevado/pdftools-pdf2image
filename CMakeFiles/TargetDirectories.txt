@@ -1,0 +1,3 @@
+/workspaces/PruebaC/PdfTools_Pdf2ImgSimple_C/CMakeFiles/pdftoolspdf2imgsimple.dir
+/workspaces/PruebaC/PdfTools_Pdf2ImgSimple_C/CMakeFiles/edit_cache.dir
+/workspaces/PruebaC/PdfTools_Pdf2ImgSimple_C/CMakeFiles/rebuild_cache.dir

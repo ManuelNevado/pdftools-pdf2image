@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/pdftoolspdf2imgsimple.dir/pdftoolspdf2imgsimple.c.o -o pdftoolspdf2imgsimple  -Wl,-rpath,/workspaces/PruebaC/PdfTools_Pdf2ImgSimple_C/lib/linux-x64 lib/linux-x64/libPdfToolsSdk.so 
